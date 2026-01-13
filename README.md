@@ -2,8 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/JohnBR82">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JohnBR82&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBR82&layout=compact&langs_count=7&theme=dark"/>
+
 </div>
 
  ## <img  alt="Gabriel1" height="30" width="40" src="https://icongr.am/clarity/check.svg?size=148&color=00b81f"> My name is Gabriel.
